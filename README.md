@@ -83,7 +83,7 @@ actionable AI in healthcare.
 * Demos of practical applications
 
 Papers must be submitted in PDF format to easychair
-https://easychair.org/conferences/?conf=dshealth2021 and formatted according to
+https://easychair.org/conferences/?conf=dshealth2022 and formatted according to
 the new Standard ACM Conference Proceedings Template. Authors are encouraged to use the Overleaf template (https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc).
 Papers must be a maximum length of 4 pages, excluding references.
 
@@ -100,10 +100,8 @@ Organizers:
 * Prithwish Chakraborty, IBM Research, USA
 * Tao Xu, F-Hoffmann la Roche, Switzerland
 * Pei-Yun Sabrina Hsueh, Bayesian Health Inc., USA
-* Xudong Sun, LMU Munich, Germany
 * Gregor Stiglic, University of Maribor, Slovenia
-* Gracy Crane, Roche Products Ltd
-* Laleh Haghverdi, Max-Delbrueck Center for Molecular Medicine, Germany
 * Jiang Bian, University of Florida, USA
 * Lixia Yao, Merck, USA
 * Florian Buettner, Frankfurt University/German Cancer Research Center (DKFZ), Germany
+* 
