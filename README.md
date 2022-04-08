@@ -2,7 +2,7 @@
 
 Joint KDD 2022 Health Day and 2022 KDD Workshop on Applied Data Science for Healthcare: Transparent and Human-centered AI.  
 Washington DC
-August 18, 2022, Eastern time
+August 14-17, 2022, Eastern time
 Webagpe: https://dshealthkdd.github.io/dshealth-2022/
 
 ---------------------------------
