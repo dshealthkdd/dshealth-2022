@@ -1,9 +1,9 @@
-# KDD Health Day - DSHealth 2021
+# KDD Health Day - DSHealth 2022
 
-Joint KDD 2021 Health Day and 2021 KDD Workshop on Applied Data Science for Healthcare: State of XAI and trustworthiness in Health.  
-Virtual
-August 16, 2021, SG time
-Webagpe: https://dshealthkdd.github.io/dshealth-2021/
+Joint KDD 2022 Health Day and 2022 KDD Workshop on Applied Data Science for Healthcare: Transparent and Human-centered AI.  
+Washington DC
+August 18, 2022, Eastern time
+Webagpe: https://dshealthkdd.github.io/dshealth-2022/
 
 ---------------------------------
 CALL FOR PAPERS
