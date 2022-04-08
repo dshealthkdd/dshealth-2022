@@ -9,7 +9,7 @@ Webagpe: https://dshealthkdd.github.io/dshealth-2022/
 CALL FOR PAPERS
 ---------------------------------
 
-4 page submissions due by May 20th, 2021
+4 page submissions due by May 26th, 2022
 
 Healthcare is, traditionally, a knowledge-driven enterprise with an enormous
 amount of data - both structured and unstructured. These data can impact
@@ -47,10 +47,10 @@ on controversial yet crucial topics regarding healthcare transformation
 Important dates:
 --------------------------
 
-* Paper Submission opens: Apr 15, 2021
-* Paper Submission deadline: ~May 20, 2021~ Jun 01, 2021
-* Acceptance Notice: ~Jun 20, 2021~ Jun 25, 2021
-* Workshop Date: Aug 14-18, 2021
+* Paper Submission opens: Apr 10, 2021
+* Paper Submission deadline: May 26, 2022
+* Acceptance Notice:Jun 20, 2022
+* Workshop Date: Aug 14-17, 2022
 
 All deadlines correspond to 11:59 PM Hawaii Standard Time 
 
